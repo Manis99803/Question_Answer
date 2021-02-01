@@ -14,4 +14,5 @@
 
 
 **Note:**
-Please update the version before th merging the PR
+Please update the version before merging the PR
+
